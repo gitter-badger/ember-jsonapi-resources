@@ -1,5 +1,7 @@
 # Ember JSON API Resources
 
+[![Join the chat at https://gitter.im/pixelhandler/ember-jsonapi-resources](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pixelhandler/ember-jsonapi-resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An [Ember CLI] Addon… a lightweight solution for data persistence in an [Ember.js]
 application following the [JSON API] 1.0 specification (your anti-bikeshedding
 weapon for API development).
